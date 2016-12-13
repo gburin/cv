@@ -1,0 +1,11 @@
+### Ignoring lattes data
+identificador_lattes*
+
+### Ignoring scriptLattes
+scriptLattes*
+
+### Ignoring DS_store
+.DS_Store
+
+### Ignoring emacs backups
+*~
